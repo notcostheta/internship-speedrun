@@ -1,5 +1,7 @@
 # Blockchain.com Data Scientist TakeHome (February 2022)
 Solution by [*Kotenkov Igor*](https://www.linkedin.com/in/seeall/)
+Original task by [*Blockchain.com*](https://www.blockchain.com/)
+Published on [*GitHub*](https://github.com/stalkermustang/bcdc_ds_takehome)
 
 ## Description
 This task is about forecasting how many bikes are rented from the [TFL (Transport for London)](https://en.wikipedia.org/wiki/Transport_for_London) Cycle Hire scheme.
