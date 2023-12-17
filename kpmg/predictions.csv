@@ -1,0 +1,736 @@
+gender,past_3_years_bike_related_purchases,job_title,job_industry_category,wealth_segment,owns_car,tenure,state,property_valuation,potential_customer_id,customer_age,age_group,prediction_col
+M,86,General Manager,Manufacturing,Mass Customer,Yes,14,QLD,6,1,60.0,51-70,Silver
+M,69,Structural Engineer,Property,Mass Customer,No,16,NSW,11,2,47.0,31-50,Silver
+F,10,Senior Cost Accountant,Financial Services,Affluent Customer,No,10,VIC,5,3,43.0,31-50,Bronze
+F,64,Account Representative III,Manufacturing,Affluent Customer,Yes,5,QLD,1,4,38.0,31-50,Silver
+F,34,Financial Analyst,Financial Services,Affluent Customer,No,19,NSW,9,5,52.0,51-70,Gold
+F,39,Assistant Media Planner,Entertainment,High Net Worth,Yes,22,QLD,7,6,66.0,51-70,Gold
+M,23,Compensation Analyst,Financial Services,Mass Customer,No,8,NSW,7,7,41.0,31-50,Silver
+F,74,Human Resources Assistant II,Retail,Mass Customer,Yes,10,QLD,5,8,45.0,31-50,Silver
+M,50,Speech Pathologist,Manufacturing,Mass Customer,Yes,5,NSW,10,9,45.0,31-50,Silver
+M,72,Accounting Assistant IV,IT,Mass Customer,Yes,17,QLD,5,10,32.0,31-50,Silver
+M,94,Programmer Analyst I,Retail,High Net Worth,No,3,QLD,6,11,22.0,14-30,Silver
+M,48,Environmental Specialist,Manufacturing,Mass Customer,No,10,VIC,8,12,18.0,14-30,Silver
+M,60,Human Resources Manager,Telecommunications,Mass Customer,No,9,NSW,11,13,27.0,14-30,Silver
+F,38,VP Marketing,Health,Mass Customer,No,4,NSW,10,14,41.0,31-50,Gold
+F,32,Clinical Specialist,Health,Mass Customer,No,10,QLD,8,15,53.0,51-70,Gold
+F,61,Associate Professor,Manufacturing,Mass Customer,Yes,4,QLD,6,17,24.0,14-30,Silver
+F,83,Actuary,Financial Services,Mass Customer,No,14,VIC,10,18,41.0,31-50,Bronze
+F,65,General Manager,Manufacturing,Affluent Customer,Yes,11,NSW,11,19,79.0,71-90,Silver
+F,2,Internal Auditor,Manufacturing,High Net Worth,No,12,NSW,10,20,63.0,51-70,Gold
+M,11,Programmer I,Manufacturing,Mass Customer,Yes,13,NSW,9,21,49.0,31-50,Gold
+M,44,Financial Analyst,Financial Services,Mass Customer,Yes,8,NSW,7,22,24.0,14-30,Silver
+F,78,Account Executive,Manufacturing,Mass Customer,No,4,QLD,5,25,35.0,31-50,Silver
+F,19,Engineer II,Retail,Mass Customer,Yes,7,NSW,2,27,65.0,51-70,Silver
+F,71,Nurse,Property,High Net Worth,Yes,5,QLD,11,28,51.0,51-70,Silver
+F,84,Librarian,Entertainment,High Net Worth,No,11,QLD,7,29,57.0,51-70,Gold
+M,70,Clinical Specialist,Health,Mass Customer,Yes,12,NSW,2,32,66.0,51-70,Silver
+F,88,Paralegal,Financial Services,Mass Customer,Yes,7,NSW,7,33,30.0,14-30,Silver
+F,27,Assistant Manager,Financial Services,Affluent Customer,No,20,VIC,9,35,40.0,31-50,Silver
+F,48,Senior Quality Engineer,Financial Services,Affluent Customer,Yes,13,QLD,1,36,42.0,31-50,Gold
+F,24,Design Engineer,Financial Services,Mass Customer,No,3,VIC,10,42,32.0,31-50,Silver
+F,29,Business Systems Development Analyst,Retail,High Net Worth,Yes,5,NSW,12,46,61.0,51-70,Silver
+F,14,Paralegal,Financial Services,Affluent Customer,Yes,19,QLD,1,47,61.0,51-70,Silver
+F,59,Cost Accountant,Financial Services,Mass Customer,Yes,17,VIC,7,49,40.0,31-50,Silver
+M,12,Product Engineer,Argiculture,Mass Customer,No,20,NSW,12,50,67.0,51-70,Silver
+M,62,Paralegal,Financial Services,Affluent Customer,Yes,5,QLD,8,52,18.0,14-30,Silver
+M,55,Social Worker,Health,High Net Worth,Yes,11,VIC,7,53,24.0,14-30,Silver
+F,87,Payment Adjustment Coordinator,Retail,Mass Customer,No,16,VIC,10,55,22.0,14-30,Silver
+F,52,Marketing Assistant,Manufacturing,Mass Customer,No,9,NSW,10,56,36.0,31-50,Gold
+M,75,Recruiter,Argiculture,Mass Customer,No,12,NSW,8,57,38.0,31-50,Silver
+M,47,Cost Accountant,Financial Services,High Net Worth,Yes,17,NSW,7,61,34.0,31-50,Silver
+M,31,Developer I,Argiculture,Mass Customer,Yes,9,NSW,9,62,46.0,31-50,Gold
+M,59,Senior Financial Analyst,Financial Services,High Net Worth,No,11,NSW,10,63,75.0,71-90,Gold
+F,70,Electrical Engineer,Manufacturing,High Net Worth,Yes,17,QLD,6,64,50.0,31-50,Silver
+F,22,Accountant IV,IT,High Net Worth,Yes,7,QLD,7,65,18.0,14-30,Gold
+F,58,Human Resources Manager,Retail,High Net Worth,No,12,NSW,8,66,34.0,31-50,Gold
+F,69,Executive Secretary,Property,Affluent Customer,Yes,5,QLD,11,67,21.0,14-30,Silver
+F,54,Account Representative I,Manufacturing,Affluent Customer,Yes,16,QLD,7,68,33.0,31-50,Silver
+M,62,Executive Secretary,Financial Services,High Net Worth,Yes,3,QLD,5,69,18.0,14-30,Silver
+F,11,Dental Hygienist,Health,High Net Worth,Yes,13,NSW,7,71,21.0,14-30,Gold
+F,78,GIS Technical Architect,Financial Services,Mass Customer,No,9,NSW,10,72,23.0,14-30,Silver
+F,73,Assistant Professor,Financial Services,High Net Worth,No,15,QLD,9,73,18.0,14-30,Gold
+M,98,Budget/Accounting Analyst IV,Manufacturing,High Net Worth,Yes,10,NSW,12,76,43.0,31-50,Silver
+M,0,Research Nurse,Health,Mass Customer,No,17,NSW,9,77,56.0,51-70,Silver
+F,36,Speech Pathologist,Health,Affluent Customer,Yes,13,VIC,7,78,61.0,51-70,Silver
+F,15,Computer Systems Analyst IV,Manufacturing,Mass Customer,Yes,13,NSW,10,79,45.0,31-50,Silver
+F,15,Analyst Programmer,Entertainment,High Net Worth,No,6,NSW,6,80,44.0,31-50,Silver
+M,53,Desktop Support Technician,Manufacturing,Mass Customer,No,15,NSW,12,81,22.0,14-30,Silver
+F,34,Editor,Financial Services,Mass Customer,No,9,NSW,8,82,52.0,51-70,Gold
+M,58,Biostatistician IV,Manufacturing,High Net Worth,No,8,VIC,12,84,42.0,31-50,Gold
+M,48,Database Administrator III,Manufacturing,High Net Worth,Yes,16,NSW,10,85,56.0,51-70,Gold
+F,8,Assistant Media Planner,Entertainment,Affluent Customer,No,5,NSW,9,87,18.0,14-30,Silver
+M,49,Physical Therapy Assistant,Manufacturing,Mass Customer,Yes,14,NSW,9,89,67.0,51-70,Silver
+M,24,Structural Engineer,Health,Affluent Customer,No,16,QLD,2,90,46.0,31-50,Silver
+F,34,Director of Sales,Health,Mass Customer,No,19,NSW,7,92,39.0,31-50,Gold
+M,18,Human Resources Assistant IV,Property,Mass Customer,Yes,15,VIC,4,97,74.0,71-90,Gold
+M,60,Nurse Practicioner,Retail,Mass Customer,No,11,QLD,6,98,23.0,14-30,Gold
+M,26,Structural Engineer,Manufacturing,High Net Worth,No,11,NSW,10,99,45.0,31-50,Silver
+F,30,Structural Analysis Engineer,Manufacturing,High Net Worth,Yes,14,VIC,8,100,17.0,14-30,Silver
+F,84,Associate Professor,Retail,Mass Customer,No,3,QLD,4,101,26.0,14-30,Gold
+F,56,Dental Hygienist,Health,Mass Customer,No,12,QLD,2,102,23.0,14-30,Silver
+M,19,Marketing Manager,Manufacturing,Mass Customer,No,9,NSW,2,103,77.0,71-90,Silver
+F,64,Staff Accountant IV,Financial Services,Affluent Customer,No,8,VIC,2,104,37.0,31-50,Gold
+F,59,VP Sales,Financial Services,High Net Worth,Yes,15,VIC,6,105,56.0,51-70,Silver
+M,50,Accountant III,IT,Mass Customer,Yes,16,QLD,3,106,71.0,71-90,Silver
+F,21,Recruiting Manager,Argiculture,Mass Customer,No,18,NSW,9,107,54.0,51-70,Silver
+M,14,Sales Representative,Retail,High Net Worth,No,19,VIC,8,108,45.0,31-50,Silver
+F,95,Food Chemist,Health,Mass Customer,Yes,7,VIC,7,111,49.0,31-50,Silver
+M,37,Staff Scientist,Financial Services,Mass Customer,Yes,11,QLD,5,112,78.0,71-90,Silver
+F,0,VP Sales,IT,Mass Customer,No,5,VIC,2,114,22.0,14-30,Silver
+F,53,Geologist IV,Manufacturing,Affluent Customer,No,18,QLD,6,115,40.0,31-50,Silver
+M,64,Information Systems Manager,Telecommunications,Affluent Customer,Yes,17,NSW,9,117,71.0,71-90,Gold
+F,21,Junior Executive,Financial Services,High Net Worth,Yes,6,VIC,9,118,39.0,31-50,Gold
+M,37,Nurse Practicioner,Retail,Mass Customer,Yes,4,QLD,7,119,30.0,14-30,Gold
+F,2,Automation Specialist II,Property,Mass Customer,Yes,7,NSW,4,120,65.0,51-70,Silver
+M,71,Software Consultant,Retail,Affluent Customer,No,4,NSW,8,121,36.0,31-50,Gold
+F,3,Financial Analyst,Financial Services,Mass Customer,No,4,QLD,4,124,42.0,31-50,Silver
+F,66,Social Worker,Health,Affluent Customer,No,21,VIC,1,127,64.0,51-70,Silver
+M,13,Civil Engineer,Manufacturing,Mass Customer,Yes,9,NSW,1,128,42.0,31-50,Gold
+F,42,Editor,Retail,Mass Customer,No,12,QLD,1,129,77.0,71-90,Silver
+F,51,Design Engineer,Retail,Affluent Customer,Yes,5,NSW,7,130,27.0,14-30,Silver
+F,78,Geological Engineer,Manufacturing,Affluent Customer,Yes,5,NSW,2,131,55.0,51-70,Silver
+F,27,Graphic Designer,Manufacturing,Affluent Customer,Yes,14,NSW,8,135,39.0,31-50,Gold
+F,90,Graphic Designer,Manufacturing,Affluent Customer,No,4,QLD,5,137,27.0,14-30,Silver
+M,28,Social Worker,Health,Mass Customer,Yes,16,NSW,4,138,50.0,31-50,Gold
+F,12,Community Outreach Specialist,Financial Services,Mass Customer,Yes,12,NSW,3,139,38.0,31-50,Silver
+F,60,Programmer Analyst II,Property,Mass Customer,Yes,3,VIC,8,140,37.0,31-50,Silver
+M,92,Desktop Support Technician,Manufacturing,Affluent Customer,Yes,16,VIC,9,141,51.0,51-70,Silver
+M,14,Pharmacist,Health,Affluent Customer,Yes,15,NSW,9,142,16.0,14-30,Silver
+M,28,VP Marketing,Retail,Mass Customer,Yes,20,QLD,8,143,68.0,51-70,Gold
+M,6,Senior Cost Accountant,Financial Services,High Net Worth,Yes,17,NSW,9,144,42.0,31-50,Silver
+F,4,Senior Editor,Manufacturing,Mass Customer,No,6,QLD,1,145,36.0,31-50,Silver
+F,40,Sales Associate,Financial Services,Mass Customer,No,15,NSW,9,146,67.0,51-70,Silver
+F,82,Developer II,Manufacturing,Mass Customer,No,17,NSW,8,147,52.0,51-70,Silver
+M,38,VP Marketing,Retail,Mass Customer,No,16,NSW,10,148,48.0,31-50,Gold
+F,58,Teacher,Health,High Net Worth,No,19,VIC,6,149,48.0,31-50,Silver
+F,60,Staff Accountant I,Health,Affluent Customer,Yes,4,QLD,3,151,50.0,31-50,Silver
+F,30,Environmental Tech,Manufacturing,Affluent Customer,Yes,14,NSW,8,152,56.0,51-70,Gold
+M,61,VP Sales,Financial Services,Mass Customer,Yes,18,NSW,11,153,48.0,31-50,Gold
+M,54,Account Coordinator,Health,Mass Customer,No,11,VIC,5,154,56.0,51-70,Bronze
+M,6,Compensation Analyst,Financial Services,Mass Customer,No,9,QLD,5,155,61.0,51-70,Silver
+F,74,Human Resources Assistant II,Property,Mass Customer,Yes,19,NSW,9,156,54.0,51-70,Silver
+F,89,Health Coach II,Financial Services,Mass Customer,No,21,QLD,9,157,41.0,31-50,Gold
+F,16,Programmer Analyst III,Health,Mass Customer,No,7,NSW,9,158,60.0,51-70,Silver
+M,37,Geologist III,Property,Affluent Customer,No,4,NSW,12,161,31.0,31-50,Silver
+F,23,Health Coach II,Health,Mass Customer,Yes,10,VIC,11,162,22.0,14-30,Gold
+F,60,Assistant Professor,Manufacturing,Affluent Customer,Yes,9,NSW,2,163,48.0,31-50,Silver
+M,55,Clinical Specialist,Health,Mass Customer,No,4,NSW,10,166,41.0,31-50,Gold
+F,65,Assistant Professor,Financial Services,High Net Worth,No,12,NSW,3,167,44.0,31-50,Silver
+F,55,Environmental Tech,Manufacturing,Mass Customer,Yes,8,QLD,4,168,28.0,14-30,Silver
+F,99,Senior Developer,Retail,Affluent Customer,No,15,VIC,9,169,65.0,51-70,Silver
+M,33,Staff Scientist,Argiculture,Affluent Customer,No,13,VIC,7,170,31.0,31-50,Silver
+M,36,Help Desk Technician,Property,Mass Customer,Yes,10,NSW,11,172,61.0,51-70,Gold
+M,60,VP Quality Control,Financial Services,Mass Customer,Yes,4,NSW,6,173,28.0,14-30,Silver
+M,56,Assistant Manager,Manufacturing,Affluent Customer,Yes,16,VIC,1,174,22.0,14-30,Gold
+F,72,Research Assistant IV,Property,Mass Customer,No,5,VIC,8,175,62.0,51-70,Gold
+F,54,Speech Pathologist,Telecommunications,High Net Worth,No,7,NSW,9,176,25.0,14-30,Silver
+M,51,Software Consultant,Manufacturing,Mass Customer,No,16,NSW,9,178,65.0,51-70,Silver
+M,92,Sales Representative,Retail,Mass Customer,Yes,13,NSW,10,179,67.0,51-70,Silver
+F,71,Assistant Manager,Financial Services,Mass Customer,No,5,QLD,9,180,42.0,31-50,Gold
+M,39,Assistant Manager,Health,High Net Worth,No,9,NSW,9,181,52.0,51-70,Gold
+M,78,Junior Executive,Manufacturing,Mass Customer,No,18,QLD,7,182,43.0,31-50,Silver
+M,34,Computer Systems Analyst I,Manufacturing,Mass Customer,Yes,13,NSW,7,184,43.0,31-50,Gold
+F,68,Account Representative IV,Property,Mass Customer,No,5,VIC,9,185,32.0,31-50,Silver
+M,65,Social Worker,Health,High Net Worth,Yes,3,VIC,10,186,25.0,14-30,Gold
+F,26,Senior Editor,Financial Services,High Net Worth,No,17,NSW,10,187,46.0,31-50,Silver
+F,7,Safety Technician I,Property,High Net Worth,No,9,QLD,10,189,31.0,31-50,Silver
+M,74,VP Product Management,IT,Affluent Customer,No,10,NSW,9,190,21.0,14-30,Silver
+F,32,Physical Therapy Assistant,Property,Affluent Customer,No,8,NSW,11,191,25.0,14-30,Silver
+M,55,Clinical Specialist,Health,Mass Customer,Yes,7,NSW,8,192,79.0,71-90,Silver
+F,16,Human Resources Manager,Telecommunications,High Net Worth,No,10,NSW,8,193,47.0,31-50,Gold
+F,47,GIS Technical Architect,Argiculture,Mass Customer,No,7,NSW,10,194,48.0,31-50,Silver
+F,26,Dental Hygienist,Health,Mass Customer,Yes,11,VIC,12,195,73.0,71-90,Gold
+M,6,Analog Circuit Design manager,Property,Affluent Customer,No,16,VIC,3,196,45.0,31-50,Gold
+F,55,Geological Engineer,Manufacturing,High Net Worth,Yes,12,QLD,4,200,51.0,51-70,Silver
+M,47,General Manager,Manufacturing,Affluent Customer,Yes,21,NSW,9,203,72.0,71-90,Silver
+F,44,Analyst Programmer,Retail,Mass Customer,Yes,7,QLD,1,204,65.0,51-70,Gold
+M,31,Research Assistant II,Telecommunications,Affluent Customer,No,9,QLD,7,207,41.0,31-50,Gold
+F,12,Social Worker,Health,High Net Worth,No,19,NSW,9,209,59.0,51-70,Silver
+M,92,Financial Analyst,Financial Services,Affluent Customer,No,4,QLD,4,210,50.0,31-50,Gold
+M,32,Senior Cost Accountant,Financial Services,Mass Customer,No,16,NSW,10,211,50.0,31-50,Gold
+M,12,Chief Design Engineer,Retail,Mass Customer,No,6,VIC,6,213,20.0,14-30,Gold
+M,28,Account Executive,Entertainment,High Net Worth,No,10,NSW,8,214,61.0,51-70,Gold
+F,9,Information Systems Manager,Property,Mass Customer,Yes,22,QLD,7,215,70.0,51-70,Gold
+M,11,Legal Assistant,Manufacturing,Mass Customer,No,4,NSW,11,216,17.0,14-30,Silver
+F,8,Occupational Therapist,Health,Affluent Customer,Yes,18,QLD,2,218,54.0,51-70,Silver
+M,78,Statistician I,Financial Services,Mass Customer,Yes,18,NSW,11,219,37.0,31-50,Gold
+M,68,Payment Adjustment Coordinator,Retail,Mass Customer,Yes,15,VIC,8,221,36.0,31-50,Silver
+M,66,Technical Writer,Health,Mass Customer,Yes,7,NSW,9,222,38.0,31-50,Silver
+M,66,Chief Design Engineer,Health,High Net Worth,No,9,NSW,8,224,17.0,14-30,Gold
+M,0,Technical Writer,Manufacturing,Mass Customer,Yes,15,QLD,8,226,17.0,14-30,Silver
+M,54,Cost Accountant,Financial Services,High Net Worth,No,8,NSW,9,228,53.0,51-70,Gold
+F,46,Associate Professor,Financial Services,Mass Customer,No,7,NSW,8,229,63.0,51-70,Silver
+F,48,VP Marketing,Health,Affluent Customer,Yes,14,QLD,4,230,54.0,51-70,Gold
+M,52,Health Coach IV,Health,Mass Customer,Yes,14,NSW,10,231,39.0,31-50,Gold
+M,50,Statistician I,Manufacturing,Mass Customer,Yes,18,NSW,9,232,74.0,71-90,Silver
+F,53,Teacher,Property,Mass Customer,No,16,NSW,7,234,74.0,71-90,Gold
+F,97,Mechanical Systems Engineer,Telecommunications,High Net Worth,Yes,13,NSW,8,237,74.0,71-90,Silver
+F,84,Design Engineer,Entertainment,Mass Customer,Yes,15,QLD,1,239,76.0,71-90,Silver
+F,18,VP Quality Control,Manufacturing,High Net Worth,Yes,9,VIC,9,241,43.0,31-50,Bronze
+F,94,Nurse Practicioner,Manufacturing,Mass Customer,No,5,QLD,9,242,58.0,51-70,Silver
+M,57,Associate Professor,Manufacturing,Affluent Customer,Yes,16,VIC,4,243,48.0,31-50,Silver
+M,29,Junior Executive,Health,Mass Customer,No,12,QLD,8,244,60.0,51-70,Silver
+F,8,Recruiter,Manufacturing,Affluent Customer,Yes,4,VIC,10,246,50.0,31-50,Gold
+F,74,Business Systems Development Analyst,Financial Services,High Net Worth,No,14,QLD,3,247,54.0,51-70,Silver
+M,49,Senior Cost Accountant,Financial Services,Affluent Customer,Yes,10,QLD,7,248,46.0,31-50,Silver
+M,59,Product Engineer,Property,High Net Worth,Yes,11,NSW,4,249,39.0,31-50,Gold
+M,57,Analog Circuit Design manager,Entertainment,High Net Worth,No,18,QLD,3,250,43.0,31-50,Gold
+F,90,Cost Accountant,Financial Services,Mass Customer,No,11,NSW,10,251,42.0,31-50,Gold
+M,85,Software Test Engineer IV,Health,Affluent Customer,Yes,6,QLD,2,252,50.0,31-50,Gold
+F,13,Sales Representative,Retail,Mass Customer,No,9,NSW,9,253,56.0,51-70,Gold
+F,91,Product Engineer,IT,Mass Customer,No,9,NSW,9,254,37.0,31-50,Silver
+F,75,Structural Analysis Engineer,Financial Services,High Net Worth,No,12,NSW,12,255,20.0,14-30,Gold
+F,17,Nuclear Power Engineer,Manufacturing,Mass Customer,No,16,VIC,10,256,78.0,71-90,Gold
+F,49,Account Coordinator,Retail,Mass Customer,No,15,VIC,12,257,58.0,51-70,Silver
+F,41,Geological Engineer,Manufacturing,High Net Worth,No,19,NSW,10,260,46.0,31-50,Gold
+F,9,Recruiting Manager,Retail,Mass Customer,Yes,14,VIC,9,261,48.0,31-50,Gold
+F,21,Analog Circuit Design manager,Argiculture,High Net Worth,No,6,QLD,6,262,26.0,14-30,Gold
+M,88,Software Engineer II,IT,Mass Customer,Yes,10,QLD,9,263,25.0,14-30,Silver
+F,36,Cost Accountant,Financial Services,Mass Customer,Yes,7,QLD,5,264,69.0,51-70,Gold
+M,57,Account Executive,Manufacturing,Affluent Customer,Yes,2,QLD,6,265,21.0,14-30,Silver
+F,81,Desktop Support Technician,Property,Mass Customer,Yes,18,NSW,8,267,48.0,31-50,Silver
+F,82,Actuary,Financial Services,Mass Customer,No,7,VIC,7,268,44.0,31-50,Gold
+M,70,Engineer IV,Manufacturing,Affluent Customer,Yes,14,VIC,7,269,66.0,51-70,Silver
+F,89,Database Administrator II,Health,High Net Worth,No,8,NSW,8,270,45.0,31-50,Gold
+M,84,Chemical Engineer,Manufacturing,High Net Worth,Yes,1,VIC,7,271,21.0,14-30,Gold
+F,99,Accountant III,Manufacturing,Mass Customer,No,3,NSW,10,273,41.0,31-50,Silver
+M,48,Executive Secretary,Manufacturing,Mass Customer,No,6,NSW,9,274,61.0,51-70,Silver
+M,35,Structural Engineer,Manufacturing,Affluent Customer,No,13,NSW,9,275,41.0,31-50,Silver
+F,70,Office Assistant II,Telecommunications,High Net Worth,No,6,NSW,12,277,64.0,51-70,Gold
+M,50,Research Associate,Health,Affluent Customer,Yes,5,VIC,9,278,55.0,51-70,Silver
+F,64,Database Administrator I,Financial Services,Mass Customer,Yes,16,VIC,9,279,41.0,31-50,Gold
+F,81,General Manager,Financial Services,Affluent Customer,No,17,VIC,9,280,52.0,51-70,Gold
+F,26,Design Engineer,Telecommunications,Mass Customer,Yes,10,VIC,8,282,46.0,31-50,Gold
+F,37,Associate Professor,Manufacturing,Mass Customer,No,19,VIC,2,283,39.0,31-50,Gold
+F,88,Pharmacist,Health,Mass Customer,No,11,QLD,7,285,50.0,31-50,Gold
+M,3,Payment Adjustment Coordinator,Financial Services,High Net Worth,Yes,19,NSW,3,286,60.0,51-70,Silver
+M,70,Senior Sales Associate,Argiculture,Affluent Customer,No,13,QLD,8,287,70.0,51-70,Silver
+F,96,Account Representative IV,Retail,Affluent Customer,Yes,9,NSW,7,289,41.0,31-50,Silver
+M,50,Account Coordinator,Manufacturing,High Net Worth,Yes,10,VIC,1,290,27.0,14-30,Gold
+M,15,Nuclear Power Engineer,Manufacturing,Affluent Customer,No,9,VIC,8,292,45.0,31-50,Gold
+F,88,Associate Professor,Health,Mass Customer,Yes,6,VIC,7,294,54.0,51-70,Gold
+M,36,Financial Advisor,Financial Services,Mass Customer,No,4,QLD,8,295,37.0,31-50,Gold
+F,68,Senior Financial Analyst,Financial Services,Mass Customer,Yes,5,NSW,7,296,29.0,14-30,Silver
+M,97,Account Executive,Financial Services,Mass Customer,Yes,4,NSW,8,298,52.0,51-70,Silver
+F,59,Physical Therapy Assistant,Retail,Mass Customer,No,17,NSW,11,300,70.0,51-70,Silver
+M,39,Systems Administrator I,Retail,Mass Customer,Yes,10,QLD,5,301,29.0,14-30,Gold
+F,97,Cost Accountant,Financial Services,Mass Customer,No,7,VIC,9,302,24.0,14-30,Silver
+M,79,Systems Administrator IV,Health,Affluent Customer,Yes,11,NSW,12,303,36.0,31-50,Silver
+F,42,Quality Engineer,Financial Services,High Net Worth,Yes,13,QLD,8,305,62.0,51-70,Silver
+F,81,Recruiting Manager,Financial Services,Mass Customer,No,6,QLD,7,306,43.0,31-50,Gold
+F,45,Occupational Therapist,Health,Mass Customer,No,11,NSW,6,309,36.0,31-50,Gold
+F,28,Design Engineer,Health,Mass Customer,No,5,VIC,5,312,52.0,51-70,Silver
+M,61,Teacher,Manufacturing,High Net Worth,No,7,NSW,8,313,28.0,14-30,Silver
+M,95,Senior Sales Associate,Manufacturing,Mass Customer,No,7,NSW,11,314,49.0,31-50,Gold
+F,96,Office Assistant I,Manufacturing,High Net Worth,No,18,VIC,9,316,39.0,31-50,Silver
+F,3,Pharmacist,Health,Mass Customer,Yes,15,VIC,6,317,60.0,51-70,Silver
+F,74,Human Resources Assistant II,Health,Affluent Customer,Yes,14,NSW,8,319,62.0,51-70,Silver
+M,87,Analyst Programmer,Financial Services,Affluent Customer,Yes,4,NSW,9,320,36.0,31-50,Gold
+M,23,Engineer III,Financial Services,High Net Worth,No,12,NSW,6,322,40.0,31-50,Silver
+F,0,Software Engineer I,Property,Mass Customer,No,17,NSW,9,323,36.0,31-50,Gold
+M,35,Account Representative I,Manufacturing,High Net Worth,No,9,VIC,9,324,25.0,14-30,Gold
+F,14,Programmer III,Health,High Net Worth,No,7,VIC,1,326,62.0,51-70,Silver
+F,17,Senior Sales Associate,Financial Services,Mass Customer,Yes,18,QLD,4,327,65.0,51-70,Silver
+M,32,Technical Writer,Manufacturing,High Net Worth,No,21,QLD,6,329,39.0,31-50,Silver
+F,32,Senior Developer,Property,Mass Customer,No,11,NSW,4,330,45.0,31-50,Gold
+M,64,Librarian,Entertainment,Mass Customer,Yes,7,VIC,8,333,20.0,14-30,Silver
+M,33,Media Manager I,Retail,Affluent Customer,Yes,9,VIC,2,334,39.0,31-50,Silver
+F,62,Financial Advisor,Financial Services,Mass Customer,Yes,15,NSW,10,335,72.0,71-90,Gold
+M,81,Civil Engineer,Manufacturing,Mass Customer,No,7,NSW,9,336,74.0,71-90,Gold
+F,8,Environmental Tech,Financial Services,Mass Customer,Yes,16,VIC,7,337,18.0,14-30,Gold
+F,93,Human Resources Manager,Health,Affluent Customer,Yes,17,QLD,3,341,48.0,31-50,Silver
+F,38,Software Consultant,IT,Mass Customer,Yes,11,VIC,10,342,49.0,31-50,Gold
+M,84,Data Coordiator,IT,Affluent Customer,No,10,QLD,6,343,66.0,51-70,Silver
+F,22,VP Marketing,Manufacturing,Mass Customer,Yes,16,QLD,10,344,78.0,71-90,Silver
+M,17,Business Systems Development Analyst,Manufacturing,Affluent Customer,Yes,13,QLD,7,345,53.0,51-70,Bronze
+F,43,Associate Professor,Property,Mass Customer,Yes,7,NSW,9,347,76.0,71-90,Silver
+M,22,Software Consultant,Financial Services,High Net Worth,Yes,17,QLD,6,348,56.0,51-70,Silver
+F,11,Social Worker,Health,Mass Customer,No,5,NSW,1,349,64.0,51-70,Silver
+M,67,Web Developer IV,Manufacturing,High Net Worth,No,12,VIC,10,350,36.0,31-50,Bronze
+F,74,Environmental Specialist,Argiculture,Mass Customer,Yes,17,VIC,10,353,73.0,71-90,Silver
+M,19,Pharmacist,Health,Affluent Customer,Yes,12,NSW,8,354,64.0,51-70,Silver
+F,45,Registered Nurse,Health,Affluent Customer,No,10,NSW,8,356,37.0,31-50,Silver
+F,30,Human Resources Manager,Health,Mass Customer,Yes,11,VIC,7,357,73.0,71-90,Gold
+M,59,Electrical Engineer,Manufacturing,Affluent Customer,No,12,NSW,11,358,46.0,31-50,Gold
+M,99,Media Manager IV,Retail,High Net Worth,No,10,VIC,7,360,27.0,14-30,Bronze
+M,7,Senior Editor,Telecommunications,Mass Customer,No,12,NSW,10,362,38.0,31-50,Silver
+F,67,Nurse Practicioner,Financial Services,Mass Customer,Yes,10,NSW,2,363,20.0,14-30,Gold
+M,13,Technical Writer,Financial Services,Mass Customer,No,13,VIC,11,364,60.0,51-70,Silver
+F,62,Computer Systems Analyst II,Financial Services,Mass Customer,Yes,15,NSW,4,365,18.0,14-30,Gold
+F,84,Business Systems Development Analyst,Financial Services,Mass Customer,No,11,NSW,8,367,46.0,31-50,Silver
+M,18,Paralegal,Financial Services,High Net Worth,Yes,9,VIC,7,368,58.0,51-70,Silver
+M,50,Help Desk Technician,IT,High Net Worth,No,4,VIC,4,370,23.0,14-30,Silver
+M,30,Food Chemist,Health,Mass Customer,Yes,6,NSW,9,372,54.0,51-70,Gold
+M,4,Librarian,Entertainment,Mass Customer,No,9,NSW,10,373,43.0,31-50,Bronze
+M,54,Web Designer I,Financial Services,Affluent Customer,No,11,VIC,11,374,42.0,31-50,Silver
+F,81,Human Resources Assistant I,Financial Services,High Net Worth,No,2,VIC,1,378,31.0,31-50,Gold
+F,34,Nuclear Power Engineer,Manufacturing,Affluent Customer,No,14,VIC,6,379,43.0,31-50,Silver
+F,40,Data Coordiator,Financial Services,Mass Customer,Yes,16,QLD,5,380,75.0,71-90,Gold
+F,7,Junior Executive,Manufacturing,Mass Customer,No,12,NSW,6,381,54.0,51-70,Silver
+F,4,VP Product Management,Financial Services,Affluent Customer,Yes,2,NSW,12,382,21.0,14-30,Silver
+M,85,Data Coordiator,Health,Mass Customer,Yes,8,NSW,10,383,53.0,51-70,Bronze
+F,65,Product Engineer,Entertainment,Affluent Customer,No,17,NSW,7,384,73.0,71-90,Gold
+M,82,Staff Scientist,Financial Services,Affluent Customer,Yes,9,VIC,6,385,22.0,14-30,Gold
+M,46,Help Desk Operator,Manufacturing,High Net Worth,Yes,9,QLD,7,386,63.0,51-70,Gold
+M,51,Structural Engineer,Telecommunications,Affluent Customer,No,5,QLD,3,389,24.0,14-30,Silver
+F,92,Senior Editor,Manufacturing,Affluent Customer,No,10,NSW,10,392,78.0,71-90,Gold
+M,36,Data Coordiator,Retail,Mass Customer,Yes,6,NSW,11,393,35.0,31-50,Silver
+M,10,Quality Engineer,Financial Services,Mass Customer,No,19,VIC,9,394,67.0,51-70,Silver
+F,73,Assistant Media Planner,Entertainment,Mass Customer,Yes,9,NSW,12,396,56.0,51-70,Gold
+F,66,VP Sales,Health,Mass Customer,Yes,4,QLD,3,397,15.0,14-30,Silver
+M,54,Environmental Specialist,Health,Mass Customer,Yes,21,NSW,8,399,75.0,71-90,Silver
+M,72,Financial Advisor,Financial Services,Affluent Customer,No,18,NSW,10,400,38.0,31-50,Gold
+M,53,Software Consultant,IT,Mass Customer,No,12,NSW,5,401,41.0,31-50,Gold
+F,91,Senior Financial Analyst,Financial Services,Mass Customer,Yes,13,VIC,10,402,50.0,31-50,Silver
+M,80,Cost Accountant,Financial Services,Affluent Customer,Yes,17,NSW,11,404,39.0,31-50,Gold
+F,67,Help Desk Operator,Manufacturing,High Net Worth,Yes,16,VIC,7,405,40.0,31-50,Gold
+M,21,Graphic Designer,Health,Mass Customer,No,19,NSW,11,407,79.0,71-90,Silver
+F,24,Programmer III,Health,High Net Worth,No,12,VIC,7,408,21.0,14-30,Gold
+F,75,Social Worker,Health,High Net Worth,No,10,VIC,10,409,34.0,31-50,Gold
+M,84,Nuclear Power Engineer,Manufacturing,Mass Customer,No,14,VIC,11,412,22.0,14-30,Gold
+M,65,Civil Engineer,Manufacturing,Mass Customer,No,17,NSW,8,413,63.0,51-70,Silver
+F,48,Health Coach IV,Health,High Net Worth,No,11,NSW,12,414,59.0,51-70,Gold
+M,57,Data Coordiator,Argiculture,Mass Customer,Yes,15,QLD,2,416,54.0,51-70,Silver
+M,57,Assistant Media Planner,Entertainment,Affluent Customer,No,17,VIC,3,417,64.0,51-70,Silver
+F,46,Product Engineer,Financial Services,Mass Customer,No,7,NSW,3,418,28.0,14-30,Silver
+M,76,Engineer IV,Financial Services,Affluent Customer,Yes,1,NSW,10,419,19.0,14-30,Silver
+F,33,Information Systems Manager,Financial Services,Mass Customer,No,3,NSW,1,420,26.0,14-30,Silver
+M,97,Operator,Argiculture,Mass Customer,Yes,10,NSW,8,422,47.0,31-50,Silver
+M,3,Systems Administrator III,Property,Mass Customer,No,12,NSW,9,423,26.0,14-30,Silver
+M,87,Sales Representative,Retail,Affluent Customer,No,15,VIC,5,424,24.0,14-30,Gold
+M,70,Software Engineer III,Manufacturing,Mass Customer,Yes,19,NSW,9,425,72.0,71-90,Silver
+F,13,Senior Financial Analyst,Financial Services,Mass Customer,Yes,20,QLD,9,426,70.0,51-70,Gold
+F,52,Chemical Engineer,Manufacturing,High Net Worth,No,13,NSW,9,428,48.0,31-50,Gold
+F,6,Database Administrator II,Property,Affluent Customer,Yes,20,NSW,9,429,40.0,31-50,Silver
+M,23,Research Assistant IV,Argiculture,Mass Customer,Yes,4,NSW,8,431,43.0,31-50,Gold
+F,58,Account Executive,IT,Mass Customer,Yes,17,NSW,9,432,42.0,31-50,Gold
+M,72,Nurse Practicioner,Health,Mass Customer,No,16,QLD,4,433,60.0,51-70,Silver
+M,61,Director of Sales,Property,Affluent Customer,No,12,VIC,8,434,39.0,31-50,Gold
+M,15,Community Outreach Specialist,Entertainment,High Net Worth,Yes,22,VIC,7,436,44.0,31-50,Silver
+M,37,Nuclear Power Engineer,Manufacturing,High Net Worth,Yes,10,NSW,8,437,20.0,14-30,Silver
+M,28,Geologist III,Property,Affluent Customer,Yes,7,VIC,2,438,43.0,31-50,Silver
+M,47,Actuary,Financial Services,Mass Customer,No,7,NSW,10,439,65.0,51-70,Gold
+F,59,Librarian,Entertainment,High Net Worth,Yes,14,NSW,1,441,76.0,71-90,Silver
+M,16,Software Consultant,Financial Services,Affluent Customer,No,15,VIC,8,442,20.0,14-30,Gold
+F,30,General Manager,Argiculture,Mass Customer,Yes,14,NSW,2,443,30.0,14-30,Silver
+F,59,Senior Developer,IT,Mass Customer,No,6,NSW,2,444,53.0,51-70,Silver
+F,76,Research Associate,Financial Services,Mass Customer,Yes,10,QLD,7,445,45.0,31-50,Silver
+M,67,VP Sales,Financial Services,Affluent Customer,No,8,QLD,5,446,24.0,14-30,Silver
+M,54,Programmer I,Property,High Net Worth,Yes,5,VIC,11,447,59.0,51-70,Silver
+F,83,Quality Engineer,Manufacturing,High Net Worth,Yes,8,QLD,4,448,51.0,51-70,Gold
+M,61,Legal Assistant,Retail,Affluent Customer,No,11,NSW,10,449,40.0,31-50,Gold
+F,84,Programmer Analyst III,Financial Services,Mass Customer,No,9,VIC,4,451,21.0,14-30,Gold
+F,0,Help Desk Operator,Retail,High Net Worth,Yes,14,VIC,5,452,26.0,14-30,Silver
+F,12,Chemical Engineer,Manufacturing,High Net Worth,No,21,NSW,9,453,74.0,71-90,Gold
+M,42,Automation Specialist IV,Financial Services,High Net Worth,No,14,NSW,11,454,35.0,31-50,Silver
+M,70,VP Accounting,Financial Services,Mass Customer,No,17,NSW,11,455,32.0,31-50,Silver
+F,17,Information Systems Manager,Manufacturing,High Net Worth,No,17,QLD,3,457,41.0,31-50,Gold
+F,60,Software Engineer III,Financial Services,Mass Customer,No,16,VIC,10,459,70.0,51-70,Gold
+F,24,Chief Design Engineer,Retail,Mass Customer,No,8,VIC,4,463,70.0,51-70,Gold
+M,56,Software Test Engineer IV,Property,Mass Customer,Yes,5,NSW,7,464,52.0,51-70,Gold
+F,25,Quality Engineer,Retail,Mass Customer,No,16,NSW,11,465,40.0,31-50,Bronze
+F,22,Social Worker,Health,High Net Worth,Yes,2,VIC,10,466,24.0,14-30,Gold
+M,42,Business Systems Development Analyst,Financial Services,Mass Customer,No,19,QLD,8,467,45.0,31-50,Gold
+F,75,Assistant Manager,Argiculture,Mass Customer,No,10,NSW,9,469,17.0,14-30,Silver
+F,50,Graphic Designer,IT,Mass Customer,No,14,VIC,10,470,16.0,14-30,Silver
+F,50,Nurse Practicioner,Retail,Mass Customer,Yes,4,QLD,7,471,27.0,14-30,Silver
+M,95,VP Marketing,Telecommunications,Mass Customer,Yes,18,VIC,9,472,50.0,31-50,Silver
+M,9,Accountant II,Manufacturing,Affluent Customer,No,7,NSW,10,473,18.0,14-30,Silver
+M,99,Geologist III,IT,Affluent Customer,Yes,20,NSW,5,474,61.0,51-70,Gold
+M,31,Assistant Media Planner,Entertainment,Mass Customer,Yes,15,NSW,10,475,38.0,31-50,Silver
+M,7,Food Chemist,Health,Affluent Customer,Yes,9,NSW,3,476,16.0,14-30,Silver
+F,25,Administrative Assistant II,Entertainment,Mass Customer,No,16,VIC,10,477,45.0,31-50,Gold
+F,43,Actuary,Financial Services,High Net Worth,No,11,NSW,8,478,22.0,14-30,Silver
+F,73,Dental Hygienist,Health,High Net Worth,No,15,NSW,7,480,66.0,51-70,Gold
+M,25,Media Manager IV,Health,Mass Customer,Yes,10,VIC,7,481,38.0,31-50,Gold
+M,97,Compensation Analyst,Financial Services,Mass Customer,Yes,8,VIC,2,482,58.0,51-70,Gold
+F,13,Account Representative IV,Retail,Affluent Customer,No,13,NSW,7,483,78.0,71-90,Bronze
+M,29,Assistant Manager,Manufacturing,High Net Worth,No,11,VIC,4,485,47.0,31-50,Silver
+M,46,VP Sales,Financial Services,High Net Worth,Yes,13,QLD,4,486,73.0,71-90,Gold
+F,69,Senior Sales Associate,Financial Services,High Net Worth,No,8,VIC,6,487,51.0,51-70,Silver
+F,72,Web Designer IV,Manufacturing,Mass Customer,Yes,10,NSW,9,491,42.0,31-50,Silver
+F,56,Media Manager III,Retail,Mass Customer,No,11,VIC,8,492,52.0,51-70,Silver
+F,55,Administrative Officer,Manufacturing,Mass Customer,No,2,NSW,8,493,21.0,14-30,Gold
+M,39,Nurse Practicioner,IT,Affluent Customer,No,14,QLD,7,495,40.0,31-50,Silver
+M,86,Geologist IV,Financial Services,Affluent Customer,Yes,10,NSW,10,496,20.0,14-30,Gold
+F,59,Analyst Programmer,Property,High Net Worth,No,13,NSW,11,497,65.0,51-70,Silver
+F,5,Compensation Analyst,Financial Services,Mass Customer,Yes,11,QLD,5,500,63.0,51-70,Silver
+M,82,Structural Analysis Engineer,Argiculture,Mass Customer,No,16,VIC,10,501,50.0,31-50,Gold
+F,10,Assistant Media Planner,Entertainment,Affluent Customer,Yes,17,NSW,7,503,43.0,31-50,Silver
+M,68,Payment Adjustment Coordinator,Retail,High Net Worth,Yes,20,QLD,4,504,57.0,51-70,Gold
+F,6,VP Product Management,Manufacturing,Mass Customer,Yes,13,NSW,9,509,41.0,31-50,Gold
+M,4,Financial Analyst,Financial Services,Mass Customer,No,11,NSW,8,511,44.0,31-50,Silver
+M,57,Marketing Manager,Retail,High Net Worth,No,12,VIC,9,512,18.0,14-30,Silver
+F,81,Data Coordiator,Manufacturing,High Net Worth,No,9,VIC,8,513,41.0,31-50,Gold
+F,72,Senior Cost Accountant,Financial Services,Mass Customer,Yes,10,QLD,9,515,29.0,14-30,Silver
+F,87,Environmental Tech,Retail,Mass Customer,Yes,9,QLD,6,520,63.0,51-70,Silver
+F,33,Senior Quality Engineer,Manufacturing,High Net Worth,No,12,NSW,9,521,66.0,51-70,Silver
+M,60,Chief Design Engineer,Entertainment,High Net Worth,No,2,NSW,12,523,26.0,14-30,Silver
+M,44,Senior Sales Associate,Argiculture,Affluent Customer,Yes,11,NSW,6,524,67.0,51-70,Silver
+M,79,Structural Engineer,Manufacturing,High Net Worth,Yes,8,VIC,7,525,37.0,31-50,Gold
+M,11,Environmental Tech,Telecommunications,High Net Worth,Yes,13,VIC,10,526,63.0,51-70,Silver
+M,97,Research Assistant IV,Financial Services,Affluent Customer,No,13,VIC,8,528,64.0,51-70,Silver
+F,56,Office Assistant IV,IT,High Net Worth,No,19,NSW,11,530,44.0,31-50,Silver
+F,71,Chief Design Engineer,Financial Services,Mass Customer,Yes,9,NSW,6,532,36.0,31-50,Silver
+M,61,Physical Therapy Assistant,Retail,Mass Customer,No,8,VIC,8,533,31.0,31-50,Silver
+M,55,Associate Professor,Financial Services,Mass Customer,No,9,NSW,3,534,62.0,51-70,Silver
+M,62,Computer Systems Analyst I,Financial Services,High Net Worth,Yes,22,VIC,8,535,65.0,51-70,Silver
+F,10,Editor,Financial Services,Mass Customer,Yes,17,QLD,7,536,61.0,51-70,Gold
+M,16,Software Consultant,Argiculture,Mass Customer,Yes,15,NSW,6,537,39.0,31-50,Gold
+M,62,Marketing Assistant,Health,Affluent Customer,No,15,VIC,8,538,23.0,14-30,Gold
+F,41,Database Administrator III,Manufacturing,High Net Worth,No,15,VIC,7,539,39.0,31-50,Gold
+F,37,Accounting Assistant III,Manufacturing,Mass Customer,No,7,NSW,12,540,20.0,14-30,Silver
+M,80,Civil Engineer,Manufacturing,High Net Worth,No,5,NSW,10,541,52.0,51-70,Gold
+F,78,VP Product Management,Manufacturing,Affluent Customer,No,13,QLD,5,542,41.0,31-50,Silver
+F,10,Accounting Assistant I,Financial Services,Affluent Customer,No,16,NSW,9,543,42.0,31-50,Gold
+M,68,VP Sales,Manufacturing,Mass Customer,No,8,NSW,7,544,67.0,51-70,Silver
+M,60,Chemical Engineer,Manufacturing,High Net Worth,Yes,2,VIC,6,545,19.0,14-30,Silver
+F,0,Food Chemist,Health,Mass Customer,No,13,NSW,12,546,40.0,31-50,Gold
+F,99,Accountant III,Financial Services,Mass Customer,No,5,NSW,7,547,45.0,31-50,Gold
+F,37,Senior Editor,Entertainment,High Net Worth,Yes,9,NSW,10,548,44.0,31-50,Silver
+M,69,Programmer III,Retail,Affluent Customer,No,13,NSW,9,549,33.0,31-50,Silver
+F,42,Marketing Manager,Financial Services,High Net Worth,Yes,12,NSW,12,550,26.0,14-30,Gold
+F,34,Professor,Manufacturing,High Net Worth,Yes,11,VIC,9,551,38.0,31-50,Gold
+F,83,Financial Analyst,Financial Services,High Net Worth,Yes,5,QLD,6,552,41.0,31-50,Silver
+M,12,Internal Auditor,Manufacturing,Mass Customer,Yes,13,QLD,3,553,18.0,14-30,Gold
+F,55,Developer I,Financial Services,Affluent Customer,No,17,NSW,6,554,59.0,51-70,Gold
+F,79,Analyst Programmer,Financial Services,High Net Worth,Yes,13,NSW,8,555,22.0,14-30,Gold
+M,23,Help Desk Technician,Manufacturing,High Net Worth,No,12,NSW,7,556,24.0,14-30,Silver
+M,79,Senior Cost Accountant,Financial Services,High Net Worth,No,13,VIC,3,557,45.0,31-50,Gold
+M,46,Speech Pathologist,Manufacturing,High Net Worth,No,13,NSW,9,558,23.0,14-30,Silver
+M,70,Geological Engineer,Manufacturing,High Net Worth,No,8,NSW,12,559,70.0,51-70,Gold
+M,60,Account Coordinator,Manufacturing,High Net Worth,No,13,NSW,6,560,67.0,51-70,Silver
+M,4,Executive Secretary,Financial Services,Mass Customer,Yes,13,QLD,10,563,23.0,14-30,Gold
+M,67,Software Consultant,Health,Affluent Customer,No,13,NSW,10,564,50.0,31-50,Silver
+F,87,Account Representative IV,Retail,Affluent Customer,Yes,20,NSW,9,565,62.0,51-70,Silver
+M,73,Actuary,Financial Services,High Net Worth,Yes,15,NSW,6,566,62.0,51-70,Silver
+F,17,Executive Secretary,Telecommunications,High Net Worth,Yes,12,NSW,10,567,53.0,51-70,Silver
+M,81,Assistant Media Planner,Entertainment,Mass Customer,No,14,QLD,1,569,26.0,14-30,Silver
+F,66,Electrical Engineer,Manufacturing,Mass Customer,Yes,2,QLD,7,570,16.0,14-30,Silver
+F,53,Research Assistant III,Financial Services,Mass Customer,Yes,18,NSW,8,571,49.0,31-50,Silver
+M,81,Assistant Media Planner,Entertainment,Mass Customer,Yes,21,NSW,9,572,67.0,51-70,Silver
+M,1,Accounting Assistant I,Financial Services,Mass Customer,No,16,NSW,8,573,75.0,71-90,Gold
+F,49,Programmer Analyst I,Property,High Net Worth,Yes,18,VIC,7,574,52.0,51-70,Gold
+M,90,Sales Associate,Financial Services,Affluent Customer,No,7,VIC,2,577,74.0,71-90,Gold
+M,33,Senior Sales Associate,Financial Services,High Net Worth,Yes,9,NSW,9,578,41.0,31-50,Silver
+F,64,Sales Representative,Retail,Mass Customer,No,11,NSW,9,579,23.0,14-30,Silver
+F,47,Structural Engineer,Telecommunications,Mass Customer,No,11,NSW,10,581,44.0,31-50,Gold
+F,3,Account Coordinator,Manufacturing,High Net Worth,Yes,13,QLD,8,582,27.0,14-30,Silver
+M,9,Registered Nurse,Health,Mass Customer,Yes,11,NSW,7,584,22.0,14-30,Gold
+F,26,Environmental Specialist,Health,Mass Customer,No,10,VIC,1,585,66.0,51-70,Silver
+F,27,Web Developer II,Manufacturing,Affluent Customer,No,15,VIC,3,586,79.0,71-90,Gold
+M,32,Statistician III,Health,Affluent Customer,No,14,QLD,6,587,21.0,14-30,Silver
+M,95,Cost Accountant,Financial Services,Affluent Customer,Yes,1,QLD,8,588,23.0,14-30,Silver
+M,83,Programmer Analyst IV,Health,High Net Worth,No,18,NSW,8,589,43.0,31-50,Silver
+F,39,Account Executive,Manufacturing,High Net Worth,Yes,17,VIC,7,590,30.0,14-30,Silver
+M,1,Engineer IV,Manufacturing,Mass Customer,No,10,VIC,6,591,38.0,31-50,Gold
+F,44,Tax Accountant,Retail,Affluent Customer,Yes,13,VIC,8,592,21.0,14-30,Gold
+M,83,Mechanical Systems Engineer,Financial Services,Mass Customer,No,7,VIC,5,593,52.0,51-70,Bronze
+M,13,Accountant I,Property,Mass Customer,No,20,NSW,8,594,62.0,51-70,Silver
+F,21,Sales Associate,Financial Services,Affluent Customer,Yes,8,VIC,3,595,44.0,31-50,Silver
+M,29,Assistant Media Planner,Entertainment,High Net Worth,No,1,NSW,11,598,23.0,14-30,Silver
+M,63,Compensation Analyst,Financial Services,Affluent Customer,Yes,15,NSW,9,601,21.0,14-30,Gold
+M,68,Data Coordiator,Health,Affluent Customer,Yes,11,NSW,11,602,20.0,14-30,Gold
+F,45,Director of Sales,Manufacturing,Mass Customer,Yes,10,QLD,7,603,44.0,31-50,Silver
+F,27,Operator,IT,Affluent Customer,Yes,12,VIC,10,605,51.0,51-70,Gold
+M,96,Automation Specialist III,Manufacturing,Mass Customer,Yes,20,NSW,8,607,62.0,51-70,Gold
+F,80,Computer Systems Analyst I,Manufacturing,Mass Customer,Yes,12,NSW,6,608,38.0,31-50,Silver
+M,70,VP Product Management,Health,Mass Customer,Yes,5,NSW,8,609,47.0,31-50,Silver
+F,94,Professor,Manufacturing,Mass Customer,Yes,9,NSW,8,610,19.0,14-30,Silver
+M,65,VP Marketing,Property,High Net Worth,No,16,QLD,7,611,41.0,31-50,Silver
+M,29,Environmental Tech,Health,Affluent Customer,Yes,17,NSW,8,613,67.0,51-70,Gold
+M,37,Media Manager II,Retail,Mass Customer,Yes,14,VIC,8,614,66.0,51-70,Silver
+F,63,Software Engineer II,IT,Mass Customer,No,8,NSW,9,615,60.0,51-70,Silver
+M,62,Administrative Assistant I,Health,Mass Customer,Yes,6,NSW,12,616,54.0,51-70,Gold
+F,47,Programmer II,Property,Affluent Customer,Yes,17,NSW,11,617,61.0,51-70,Silver
+F,49,Civil Engineer,Manufacturing,Mass Customer,No,8,QLD,7,618,44.0,31-50,Gold
+M,88,Product Engineer,Financial Services,Mass Customer,Yes,6,NSW,2,621,62.0,51-70,Silver
+M,31,Engineer I,Manufacturing,Mass Customer,Yes,8,QLD,7,623,19.0,14-30,Silver
+M,11,Health Coach III,Health,Mass Customer,No,19,QLD,9,624,50.0,31-50,Gold
+F,97,Chemical Engineer,Manufacturing,Affluent Customer,Yes,5,QLD,9,625,57.0,51-70,Silver
+M,51,Geologist IV,Manufacturing,Affluent Customer,Yes,6,NSW,9,626,24.0,14-30,Gold
+M,30,Junior Executive,Manufacturing,Mass Customer,No,9,QLD,7,628,56.0,51-70,Gold
+F,86,Legal Assistant,Health,Mass Customer,Yes,17,QLD,5,632,55.0,51-70,Silver
+F,3,Payment Adjustment Coordinator,Financial Services,Mass Customer,Yes,13,VIC,8,633,42.0,31-50,Gold
+M,88,Marketing Assistant,Retail,Mass Customer,No,12,QLD,6,634,20.0,14-30,Gold
+M,96,Desktop Support Technician,Financial Services,Mass Customer,Yes,16,QLD,5,635,63.0,51-70,Gold
+M,23,Pharmacist,Health,High Net Worth,No,18,VIC,1,636,67.0,51-70,Silver
+M,97,Assistant Professor,Retail,High Net Worth,No,8,NSW,10,637,39.0,31-50,Silver
+F,31,Senior Editor,Financial Services,Affluent Customer,Yes,11,VIC,6,638,63.0,51-70,Silver
+F,18,Statistician II,Retail,Affluent Customer,No,14,VIC,8,640,51.0,51-70,Silver
+M,42,Help Desk Operator,Property,Mass Customer,No,13,NSW,8,642,35.0,31-50,Gold
+F,48,Executive Secretary,Manufacturing,Affluent Customer,No,14,QLD,3,643,21.0,14-30,Silver
+M,82,Payment Adjustment Coordinator,Manufacturing,Mass Customer,No,12,NSW,11,644,55.0,51-70,Gold
+F,38,Software Engineer II,Argiculture,High Net Worth,Yes,14,NSW,8,646,77.0,71-90,Silver
+M,93,Database Administrator III,Retail,Affluent Customer,Yes,5,NSW,9,647,22.0,14-30,Silver
+M,24,Financial Analyst,Financial Services,Mass Customer,No,17,NSW,9,648,36.0,31-50,Gold
+F,18,Social Worker,Health,Mass Customer,Yes,15,QLD,9,649,75.0,71-90,Gold
+M,58,Technical Writer,Manufacturing,High Net Worth,Yes,16,NSW,5,650,59.0,51-70,Gold
+F,98,Mechanical Systems Engineer,Retail,Mass Customer,Yes,1,VIC,9,653,20.0,14-30,Silver
+F,86,Geological Engineer,Manufacturing,Mass Customer,Yes,17,VIC,5,654,59.0,51-70,Silver
+F,11,Professor,Manufacturing,High Net Worth,Yes,15,VIC,12,655,66.0,51-70,Gold
+F,2,Professor,Financial Services,Mass Customer,Yes,19,NSW,12,656,73.0,71-90,Silver
+F,6,Analyst Programmer,Manufacturing,High Net Worth,Yes,14,VIC,6,657,32.0,31-50,Silver
+F,25,Financial Advisor,Financial Services,Affluent Customer,Yes,18,VIC,5,659,40.0,31-50,Silver
+M,12,Community Outreach Specialist,Financial Services,Mass Customer,No,16,VIC,3,660,49.0,31-50,Gold
+M,73,Nurse Practicioner,Financial Services,High Net Worth,No,6,VIC,11,661,26.0,14-30,Gold
+M,94,Tax Accountant,Manufacturing,Affluent Customer,Yes,20,NSW,8,662,58.0,51-70,Gold
+F,59,Developer III,Health,High Net Worth,No,17,NSW,11,664,77.0,71-90,Gold
+F,41,VP Product Management,Telecommunications,Mass Customer,No,12,VIC,7,667,57.0,51-70,Silver
+F,42,Director of Sales,Financial Services,High Net Worth,No,19,VIC,7,668,76.0,71-90,Gold
+F,50,Structural Analysis Engineer,Financial Services,Mass Customer,Yes,22,QLD,2,670,43.0,31-50,Silver
+M,3,Librarian,Entertainment,High Net Worth,No,9,VIC,10,671,58.0,51-70,Silver
+F,45,Junior Executive,Retail,Affluent Customer,No,12,QLD,6,672,61.0,51-70,Silver
+F,5,Health Coach III,Health,High Net Worth,No,11,NSW,11,673,73.0,71-90,Silver
+F,23,Operator,Manufacturing,Mass Customer,No,18,VIC,9,675,77.0,71-90,Silver
+F,73,Pharmacist,Health,High Net Worth,No,12,NSW,9,676,55.0,51-70,Gold
+F,8,VP Sales,Health,Mass Customer,No,21,NSW,10,677,65.0,51-70,Silver
+M,99,VP Quality Control,Financial Services,Mass Customer,No,15,NSW,8,678,51.0,51-70,Silver
+F,36,Structural Analysis Engineer,Health,Mass Customer,No,4,NSW,9,679,21.0,14-30,Silver
+M,93,Sales Representative,Retail,Mass Customer,Yes,7,NSW,12,680,47.0,31-50,Gold
+F,70,VP Quality Control,Property,Affluent Customer,Yes,9,NSW,7,681,21.0,14-30,Silver
+M,17,VP Sales,Retail,Affluent Customer,No,12,QLD,9,682,70.0,51-70,Silver
+F,25,Accountant IV,Manufacturing,Mass Customer,Yes,12,QLD,7,683,36.0,31-50,Gold
+F,98,Social Worker,Health,Mass Customer,Yes,10,NSW,1,684,39.0,31-50,Silver
+M,58,Office Assistant IV,Retail,High Net Worth,No,7,VIC,2,685,40.0,31-50,Silver
+F,95,Teacher,Entertainment,Mass Customer,Yes,3,NSW,6,686,37.0,31-50,Silver
+M,67,Actuary,Financial Services,Mass Customer,Yes,2,QLD,8,687,23.0,14-30,Gold
+M,22,Accounting Assistant II,Manufacturing,Mass Customer,No,11,NSW,9,688,76.0,71-90,Silver
+F,92,Occupational Therapist,Health,High Net Worth,No,16,QLD,4,689,25.0,14-30,Silver
+F,53,Administrative Assistant II,Financial Services,Affluent Customer,Yes,5,VIC,8,691,25.0,14-30,Silver
+M,70,Help Desk Technician,Financial Services,Affluent Customer,No,18,NSW,9,693,44.0,31-50,Gold
+M,96,VP Accounting,Financial Services,Mass Customer,No,9,QLD,5,694,63.0,51-70,Silver
+M,68,VP Quality Control,Property,High Net Worth,Yes,17,NSW,4,695,40.0,31-50,Silver
+M,91,VP Product Management,Retail,Mass Customer,Yes,13,NSW,9,696,26.0,14-30,Silver
+F,8,VP Marketing,Manufacturing,High Net Worth,No,7,QLD,3,700,43.0,31-50,Gold
+F,44,Occupational Therapist,Health,High Net Worth,Yes,7,NSW,8,701,36.0,31-50,Gold
+F,39,Chief Design Engineer,Telecommunications,High Net Worth,No,13,NSW,11,702,43.0,31-50,Bronze
+M,97,Chemical Engineer,Manufacturing,Mass Customer,No,6,NSW,8,703,52.0,51-70,Silver
+F,37,Dental Hygienist,Health,Affluent Customer,Yes,19,VIC,7,705,64.0,51-70,Silver
+F,99,Cost Accountant,Financial Services,High Net Worth,No,16,NSW,11,706,66.0,51-70,Gold
+M,27,Actuary,Financial Services,Mass Customer,No,11,VIC,8,707,42.0,31-50,Gold
+M,18,Clinical Specialist,Health,Mass Customer,Yes,8,NSW,5,708,71.0,71-90,Silver
+F,64,GIS Technical Architect,Financial Services,Mass Customer,No,2,NSW,7,709,18.0,14-30,Gold
+M,57,Dental Hygienist,Health,Affluent Customer,Yes,14,NSW,8,710,45.0,31-50,Silver
+F,85,VP Quality Control,Financial Services,Mass Customer,Yes,9,VIC,8,711,34.0,31-50,Gold
+M,14,Paralegal,Financial Services,Mass Customer,Yes,6,QLD,9,712,34.0,31-50,Gold
+F,47,Nurse,Retail,Mass Customer,No,17,QLD,3,714,42.0,31-50,Gold
+F,74,Nurse,Financial Services,High Net Worth,No,12,NSW,11,715,67.0,51-70,Gold
+F,82,Project Manager,Telecommunications,Mass Customer,Yes,10,NSW,2,716,54.0,51-70,Silver
+F,26,Assistant Manager,Health,Mass Customer,Yes,9,QLD,10,718,51.0,51-70,Gold
+F,15,Environmental Specialist,Health,Affluent Customer,Yes,9,VIC,9,719,18.0,14-30,Silver
+M,71,Actuary,Financial Services,Mass Customer,Yes,7,NSW,9,720,51.0,51-70,Gold
+M,12,Mechanical Systems Engineer,Manufacturing,Mass Customer,No,5,NSW,4,721,39.0,31-50,Gold
+M,36,Web Designer I,Manufacturing,Mass Customer,No,17,VIC,6,723,52.0,51-70,Silver
+F,40,Marketing Assistant,IT,Affluent Customer,Yes,21,VIC,11,724,40.0,31-50,Gold
+M,75,Analog Circuit Design manager,Property,Mass Customer,Yes,10,NSW,7,728,24.0,14-30,Silver
+M,28,Internal Auditor,Health,Affluent Customer,Yes,12,NSW,11,729,61.0,51-70,Gold
+F,60,Research Nurse,Health,Affluent Customer,Yes,16,NSW,9,730,56.0,51-70,Gold
+M,87,Environmental Tech,IT,Mass Customer,Yes,11,NSW,10,731,20.0,14-30,Gold
+F,40,Programmer Analyst I,Manufacturing,Mass Customer,Yes,5,QLD,5,732,25.0,14-30,Gold
+M,35,Junior Executive,Financial Services,Mass Customer,No,15,QLD,2,734,26.0,14-30,Bronze
+M,17,Chemical Engineer,Manufacturing,Mass Customer,Yes,5,NSW,9,735,36.0,31-50,Silver
+F,68,Research Nurse,Health,Mass Customer,Yes,6,QLD,7,737,51.0,51-70,Gold
+M,48,Civil Engineer,Manufacturing,High Net Worth,No,16,NSW,9,739,42.0,31-50,Silver
+F,42,Accountant IV,IT,Affluent Customer,Yes,19,QLD,1,740,70.0,51-70,Silver
+M,68,Financial Analyst,Financial Services,Mass Customer,Yes,11,NSW,9,742,43.0,31-50,Gold
+M,97,Junior Executive,Financial Services,Mass Customer,Yes,10,VIC,6,743,16.0,14-30,Gold
+F,70,Database Administrator IV,Property,Affluent Customer,Yes,17,QLD,9,744,69.0,51-70,Silver
+M,87,Professor,Entertainment,Mass Customer,No,11,NSW,2,745,19.0,14-30,Gold
+M,43,Software Consultant,Retail,Affluent Customer,No,8,NSW,10,746,41.0,31-50,Silver
+F,86,Physical Therapy Assistant,Financial Services,Mass Customer,No,7,QLD,3,747,37.0,31-50,Silver
+F,25,Librarian,Entertainment,Mass Customer,Yes,5,QLD,7,748,55.0,51-70,Silver
+M,99,VP Marketing,Financial Services,Mass Customer,Yes,21,QLD,9,749,42.0,31-50,Silver
+F,7,Web Designer IV,Retail,Affluent Customer,No,11,NSW,12,750,46.0,31-50,Silver
+M,33,Senior Sales Associate,Retail,Mass Customer,Yes,20,VIC,2,751,67.0,51-70,Gold
+M,35,Social Worker,Health,Mass Customer,No,16,NSW,8,754,52.0,51-70,Silver
+M,80,Food Chemist,Health,Affluent Customer,No,10,QLD,5,756,48.0,31-50,Gold
+M,22,Senior Sales Associate,Financial Services,Affluent Customer,Yes,6,VIC,6,757,21.0,14-30,Silver
+F,32,Senior Quality Engineer,Financial Services,Mass Customer,Yes,6,NSW,11,758,44.0,31-50,Silver
+M,69,Health Coach III,Health,High Net Worth,No,17,NSW,7,759,35.0,31-50,Gold
+M,51,Teacher,Retail,Affluent Customer,No,21,QLD,3,761,44.0,31-50,Silver
+M,5,Nurse Practicioner,Property,Mass Customer,No,7,QLD,7,762,30.0,14-30,Gold
+M,6,Software Consultant,Argiculture,Affluent Customer,No,16,QLD,1,763,67.0,51-70,Silver
+M,52,Junior Executive,Financial Services,Affluent Customer,No,8,NSW,12,764,15.0,14-30,Silver
+M,37,Research Assistant IV,Manufacturing,High Net Worth,Yes,11,QLD,7,766,57.0,51-70,Gold
+M,89,Clinical Specialist,Health,Affluent Customer,No,8,NSW,4,767,18.0,14-30,Silver
+F,4,VP Product Management,Manufacturing,Affluent Customer,Yes,6,NSW,8,768,27.0,14-30,Silver
+F,11,VP Sales,Retail,Mass Customer,Yes,9,NSW,10,769,52.0,51-70,Silver
+F,86,Librarian,Entertainment,Mass Customer,No,22,VIC,8,771,70.0,51-70,Silver
+F,23,Chief Design Engineer,Health,Affluent Customer,No,4,NSW,3,772,33.0,31-50,Silver
+M,47,Project Manager,Manufacturing,High Net Worth,Yes,9,NSW,8,773,64.0,51-70,Gold
+F,11,Assistant Professor,Retail,Mass Customer,Yes,4,VIC,9,774,28.0,14-30,Gold
+M,46,VP Accounting,Financial Services,High Net Worth,No,10,NSW,10,775,24.0,14-30,Silver
+F,73,Budget/Accounting Analyst III,Retail,Mass Customer,Yes,14,VIC,9,777,29.0,14-30,Silver
+F,38,Librarian,Entertainment,Affluent Customer,No,18,NSW,10,778,51.0,51-70,Silver
+F,30,Food Chemist,Health,Mass Customer,No,10,NSW,10,781,36.0,31-50,Gold
+F,35,Software Test Engineer I,Financial Services,Affluent Customer,Yes,10,QLD,5,782,53.0,51-70,Silver
+M,55,Nurse Practicioner,Manufacturing,High Net Worth,No,8,VIC,10,783,62.0,51-70,Gold
+M,98,Dental Hygienist,Health,Mass Customer,No,12,NSW,9,784,25.0,14-30,Gold
+M,66,Analyst Programmer,Manufacturing,Affluent Customer,No,9,NSW,10,785,23.0,14-30,Silver
+M,89,Operator,Health,High Net Worth,No,6,NSW,10,786,61.0,51-70,Gold
+F,48,Research Nurse,Health,High Net Worth,Yes,11,VIC,12,787,60.0,51-70,Gold
+M,1,Marketing Assistant,IT,High Net Worth,No,7,NSW,10,788,35.0,31-50,Gold
+F,49,Financial Advisor,Financial Services,Affluent Customer,No,9,QLD,2,789,37.0,31-50,Silver
+F,32,Geological Engineer,Manufacturing,Mass Customer,Yes,9,NSW,10,790,25.0,14-30,Silver
+F,93,Registered Nurse,Health,Affluent Customer,Yes,11,NSW,6,791,43.0,31-50,Silver
+M,4,Associate Professor,Property,Mass Customer,No,7,VIC,10,792,44.0,31-50,Silver
+F,79,Librarian,Entertainment,High Net Worth,No,18,NSW,6,793,63.0,51-70,Silver
+M,21,Developer I,Health,Mass Customer,No,9,NSW,12,794,62.0,51-70,Silver
+F,61,Clinical Specialist,Health,Affluent Customer,No,13,NSW,9,795,66.0,51-70,Gold
+M,1,Nurse,Manufacturing,Mass Customer,No,10,QLD,2,796,48.0,31-50,Silver
+F,47,Biostatistician IV,Financial Services,Mass Customer,Yes,13,VIC,12,797,51.0,51-70,Silver
+M,7,General Manager,Health,Mass Customer,No,12,NSW,9,798,79.0,71-90,Silver
+F,0,Environmental Tech,Manufacturing,Affluent Customer,No,13,NSW,9,799,36.0,31-50,Silver
+M,77,Chemical Engineer,Manufacturing,Affluent Customer,No,22,NSW,10,800,68.0,51-70,Silver
+F,25,Account Executive,Health,Mass Customer,Yes,14,NSW,11,802,43.0,31-50,Silver
+F,77,Health Coach I,Health,Mass Customer,No,11,NSW,10,803,37.0,31-50,Gold
+M,79,Marketing Manager,Manufacturing,Mass Customer,No,21,QLD,5,804,66.0,51-70,Silver
+F,12,Software Test Engineer I,Manufacturing,High Net Worth,No,20,VIC,7,806,65.0,51-70,Silver
+M,83,Junior Executive,Financial Services,Affluent Customer,No,16,QLD,9,807,53.0,51-70,Silver
+M,67,Programmer III,Financial Services,High Net Worth,No,21,NSW,11,808,77.0,71-90,Silver
+M,94,Financial Analyst,Financial Services,Mass Customer,No,8,NSW,7,809,32.0,31-50,Gold
+F,94,Safety Technician IV,Financial Services,Affluent Customer,Yes,9,NSW,10,811,49.0,31-50,Gold
+M,69,Chemical Engineer,Manufacturing,Mass Customer,No,20,QLD,1,812,72.0,71-90,Silver
+F,39,Nuclear Power Engineer,Manufacturing,Affluent Customer,Yes,9,NSW,7,813,39.0,31-50,Bronze
+M,38,Dental Hygienist,Health,Mass Customer,No,5,QLD,8,817,57.0,51-70,Gold
+M,42,Computer Systems Analyst III,Health,Mass Customer,Yes,17,NSW,10,818,77.0,71-90,Gold
+M,1,Budget/Accounting Analyst I,Financial Services,Affluent Customer,No,17,VIC,10,819,52.0,51-70,Silver
+M,65,GIS Technical Architect,Financial Services,Affluent Customer,No,14,VIC,8,820,29.0,14-30,Silver
+M,96,Marketing Assistant,Manufacturing,High Net Worth,No,12,VIC,8,821,29.0,14-30,Silver
+M,70,Budget/Accounting Analyst III,Manufacturing,Affluent Customer,No,17,VIC,8,822,39.0,31-50,Gold
+M,36,Account Representative III,Argiculture,Mass Customer,No,16,QLD,7,824,40.0,31-50,Gold
+F,11,Sales Associate,Financial Services,Mass Customer,Yes,7,NSW,8,825,44.0,31-50,Silver
+F,43,Senior Financial Analyst,Financial Services,Mass Customer,No,9,VIC,6,826,46.0,31-50,Silver
+F,60,Registered Nurse,Health,High Net Worth,Yes,15,NSW,7,829,54.0,51-70,Gold
+F,67,Cost Accountant,Financial Services,Mass Customer,Yes,5,NSW,12,830,25.0,14-30,Silver
+F,24,Registered Nurse,Health,Affluent Customer,No,12,VIC,4,831,55.0,51-70,Gold
+F,29,Staff Accountant III,Property,High Net Worth,Yes,4,NSW,11,832,44.0,31-50,Silver
+M,56,Nuclear Power Engineer,Manufacturing,High Net Worth,No,11,VIC,5,834,55.0,51-70,Silver
+M,79,Media Manager II,Financial Services,Mass Customer,No,15,QLD,7,835,54.0,51-70,Gold
+M,79,Payment Adjustment Coordinator,Manufacturing,Affluent Customer,Yes,7,QLD,8,837,38.0,31-50,Gold
+F,79,Environmental Specialist,Property,High Net Worth,Yes,6,NSW,7,843,59.0,51-70,Silver
+F,25,Compensation Analyst,Financial Services,Mass Customer,No,12,NSW,9,844,16.0,14-30,Silver
+F,21,Engineer IV,Retail,Mass Customer,No,7,QLD,4,845,44.0,31-50,Silver
+M,22,Engineer I,Manufacturing,Mass Customer,No,3,NSW,5,846,23.0,14-30,Silver
+M,42,Financial Analyst,Financial Services,Mass Customer,Yes,5,VIC,8,848,35.0,31-50,Gold
+F,62,Registered Nurse,Health,High Net Worth,Yes,10,NSW,7,849,20.0,14-30,Gold
+M,66,VP Quality Control,Telecommunications,High Net Worth,No,12,QLD,4,850,60.0,51-70,Silver
+F,46,Registered Nurse,Health,High Net Worth,No,12,VIC,2,851,58.0,51-70,Silver
+F,63,Civil Engineer,Manufacturing,Mass Customer,No,17,NSW,9,852,61.0,51-70,Silver
+M,62,Pharmacist,Health,Mass Customer,Yes,1,NSW,8,853,19.0,14-30,Silver
+F,29,Cost Accountant,Financial Services,Affluent Customer,Yes,9,VIC,10,854,75.0,71-90,Silver
+F,45,Automation Specialist II,Property,High Net Worth,Yes,5,NSW,10,855,37.0,31-50,Gold
+M,24,Junior Executive,Health,Affluent Customer,Yes,18,VIC,7,856,39.0,31-50,Silver
+M,32,VP Quality Control,Manufacturing,Affluent Customer,Yes,11,QLD,2,857,64.0,51-70,Gold
+F,67,Human Resources Assistant III,Health,Affluent Customer,Yes,22,NSW,9,858,78.0,71-90,Silver
+M,88,Clinical Specialist,Health,Affluent Customer,Yes,12,NSW,10,859,58.0,51-70,Gold
+F,47,Business Systems Development Analyst,IT,High Net Worth,No,15,QLD,6,860,59.0,51-70,Silver
+M,37,Marketing Manager,Manufacturing,High Net Worth,Yes,8,VIC,6,861,38.0,31-50,Gold
+M,42,Financial Advisor,Financial Services,Affluent Customer,No,3,VIC,7,862,37.0,31-50,Silver
+M,54,Senior Financial Analyst,Financial Services,Affluent Customer,No,10,NSW,7,863,64.0,51-70,Silver
+F,2,Environmental Tech,Manufacturing,Affluent Customer,Yes,7,NSW,9,864,17.0,14-30,Silver
+F,32,Associate Professor,Manufacturing,Mass Customer,No,4,VIC,8,865,27.0,14-30,Silver
+M,57,Account Representative IV,Health,High Net Worth,Yes,21,VIC,2,866,70.0,51-70,Silver
+F,99,Dental Hygienist,Health,High Net Worth,No,14,QLD,10,867,53.0,51-70,Silver
+F,87,Statistician IV,Financial Services,Mass Customer,No,8,VIC,9,869,59.0,51-70,Gold
+M,95,Product Engineer,Health,Mass Customer,Yes,12,NSW,11,870,43.0,31-50,Silver
+F,47,Senior Cost Accountant,Financial Services,Mass Customer,No,4,NSW,12,871,50.0,31-50,Gold
+F,76,Nurse,Health,High Net Worth,Yes,7,NSW,3,872,56.0,51-70,Gold
+F,37,Clinical Specialist,Health,High Net Worth,No,8,NSW,6,873,64.0,51-70,Gold
+M,88,Programmer Analyst II,Financial Services,Affluent Customer,No,11,VIC,7,875,43.0,31-50,Gold
+M,58,Electrical Engineer,Manufacturing,Affluent Customer,Yes,1,VIC,8,876,22.0,14-30,Silver
+F,57,Automation Specialist I,Manufacturing,Mass Customer,No,19,NSW,11,877,61.0,51-70,Silver
+M,43,Automation Specialist III,Manufacturing,Affluent Customer,Yes,13,QLD,9,878,69.0,51-70,Silver
+F,30,Assistant Manager,Health,High Net Worth,Yes,13,NSW,10,879,23.0,14-30,Silver
+M,67,Tax Accountant,Financial Services,High Net Worth,No,7,QLD,9,881,76.0,71-90,Silver
+M,48,Associate Professor,Entertainment,Mass Customer,No,14,VIC,7,885,53.0,51-70,Gold
+M,40,Cost Accountant,Financial Services,Affluent Customer,Yes,20,NSW,7,886,79.0,71-90,Silver
+M,52,Software Consultant,Telecommunications,Mass Customer,No,11,NSW,9,887,23.0,14-30,Silver
+F,27,Analog Circuit Design manager,Argiculture,Affluent Customer,Yes,5,NSW,9,888,60.0,51-70,Silver
+F,72,Structural Analysis Engineer,Financial Services,Affluent Customer,No,5,VIC,9,889,37.0,31-50,Silver
+M,57,Project Manager,IT,Mass Customer,Yes,9,VIC,1,891,61.0,51-70,Silver
+M,51,Design Engineer,Property,Mass Customer,Yes,6,NSW,12,892,45.0,31-50,Gold
+F,11,Civil Engineer,Manufacturing,High Net Worth,Yes,15,NSW,3,893,18.0,14-30,Silver
+F,54,Systems Administrator II,IT,Mass Customer,Yes,6,QLD,4,895,17.0,14-30,Silver
+M,5,Software Test Engineer II,Manufacturing,Mass Customer,No,18,VIC,8,896,56.0,51-70,Silver
+M,46,Environmental Tech,IT,Affluent Customer,Yes,7,QLD,5,897,76.0,71-90,Silver
+M,47,Staff Scientist,Health,Mass Customer,No,10,NSW,9,898,58.0,51-70,Gold
+F,38,Accountant IV,Property,Affluent Customer,No,11,NSW,10,899,65.0,51-70,Silver
+F,53,Chief Design Engineer,Manufacturing,Mass Customer,No,8,NSW,10,902,53.0,51-70,Gold
+M,48,Paralegal,Financial Services,Mass Customer,No,9,VIC,6,903,21.0,14-30,Gold
+F,84,Business Systems Development Analyst,Manufacturing,Affluent Customer,Yes,5,NSW,8,904,44.0,31-50,Silver
+F,77,Account Executive,Health,Mass Customer,No,8,NSW,7,906,44.0,31-50,Silver
+M,10,Software Test Engineer III,Health,Affluent Customer,No,16,NSW,9,909,17.0,14-30,Silver
+F,65,Sales Representative,Retail,Mass Customer,Yes,8,NSW,5,910,60.0,51-70,Silver
+F,7,General Manager,Manufacturing,Affluent Customer,No,17,VIC,8,912,26.0,14-30,Silver
+M,39,Geologist III,Manufacturing,Affluent Customer,Yes,6,QLD,5,913,57.0,51-70,Gold
+F,58,Developer IV,Entertainment,High Net Worth,No,9,NSW,10,916,30.0,14-30,Silver
+F,14,Chemical Engineer,Manufacturing,High Net Worth,Yes,13,QLD,2,917,38.0,31-50,Silver
+F,64,Software Consultant,Health,High Net Worth,No,16,VIC,8,918,33.0,31-50,Silver
+F,71,Nurse,Telecommunications,High Net Worth,No,3,QLD,9,919,29.0,14-30,Gold
+M,78,Help Desk Operator,Telecommunications,High Net Worth,No,17,NSW,2,920,67.0,51-70,Gold
+F,59,Pharmacist,Health,Mass Customer,No,16,NSW,9,922,27.0,14-30,Gold
+M,51,Teacher,Property,Mass Customer,Yes,3,NSW,10,923,36.0,31-50,Silver
+F,2,Senior Cost Accountant,Financial Services,Mass Customer,Yes,15,NSW,10,925,44.0,31-50,Gold
+F,47,General Manager,Manufacturing,Mass Customer,Yes,5,VIC,4,926,58.0,51-70,Silver
+F,61,Research Associate,Manufacturing,Mass Customer,No,20,QLD,9,927,60.0,51-70,Silver
+M,75,Librarian,Entertainment,High Net Worth,No,3,QLD,4,928,19.0,14-30,Gold
+F,84,Senior Cost Accountant,Financial Services,High Net Worth,Yes,13,NSW,7,929,39.0,31-50,Silver
+M,65,Occupational Therapist,Health,Mass Customer,Yes,21,VIC,5,931,66.0,51-70,Silver
+F,98,Statistician II,Manufacturing,Affluent Customer,No,8,NSW,10,932,41.0,31-50,Gold
+F,30,Software Engineer I,Telecommunications,Mass Customer,Yes,12,NSW,10,933,30.0,14-30,Gold
+M,18,Senior Financial Analyst,Financial Services,Mass Customer,No,14,VIC,4,934,42.0,31-50,Gold
+F,5,Project Manager,Manufacturing,Mass Customer,No,6,VIC,4,935,57.0,51-70,Gold
+F,79,Assistant Media Planner,Entertainment,Mass Customer,Yes,17,VIC,6,936,54.0,51-70,Gold
+M,16,Help Desk Technician,Financial Services,High Net Worth,Yes,8,VIC,8,937,53.0,51-70,Gold
+F,41,Paralegal,Financial Services,High Net Worth,Yes,11,NSW,3,938,72.0,71-90,Silver
+F,77,Legal Assistant,Argiculture,Mass Customer,No,17,QLD,4,939,77.0,71-90,Silver
+M,98,Staff Scientist,Retail,High Net Worth,No,20,NSW,9,940,71.0,71-90,Gold
+F,61,Internal Auditor,Financial Services,Mass Customer,Yes,21,VIC,8,941,43.0,31-50,Silver
+F,63,Food Chemist,Health,Affluent Customer,Yes,8,NSW,3,943,46.0,31-50,Silver
+M,90,Software Test Engineer I,Retail,Mass Customer,No,8,VIC,10,944,43.0,31-50,Gold
+M,91,Analog Circuit Design manager,Property,Mass Customer,No,5,NSW,9,945,25.0,14-30,Silver
+F,63,Sales Representative,Retail,High Net Worth,No,8,NSW,7,946,76.0,71-90,Silver
+F,44,Software Engineer III,Manufacturing,High Net Worth,Yes,4,NSW,9,947,29.0,14-30,Silver
+F,35,Account Executive,Health,Mass Customer,No,17,VIC,4,948,25.0,14-30,Gold
+M,13,Help Desk Operator,Manufacturing,High Net Worth,Yes,11,NSW,11,949,23.0,14-30,Silver
+M,23,Teacher,Health,High Net Worth,No,2,VIC,8,950,34.0,31-50,Silver
+M,67,Environmental Specialist,IT,Mass Customer,Yes,6,QLD,7,952,51.0,51-70,Silver
+M,12,Geologist I,Financial Services,Mass Customer,Yes,6,VIC,7,956,48.0,31-50,Gold
+F,59,Operator,Retail,Mass Customer,Yes,15,NSW,11,957,22.0,14-30,Silver
+F,78,Web Designer II,Retail,Mass Customer,No,7,VIC,8,959,19.0,14-30,Gold
+F,0,Accountant III,Financial Services,Mass Customer,No,10,NSW,9,961,42.0,31-50,Gold
+M,15,Recruiting Manager,Health,Mass Customer,No,11,VIC,3,962,30.0,14-30,Gold
+M,82,Associate Professor,Property,Affluent Customer,Yes,7,NSW,10,963,48.0,31-50,Gold
+F,25,Research Assistant III,Manufacturing,Mass Customer,Yes,13,QLD,6,964,37.0,31-50,Gold
+F,42,Human Resources Manager,Health,Mass Customer,Yes,15,NSW,10,965,42.0,31-50,Gold
+M,33,Product Engineer,Telecommunications,Affluent Customer,No,1,NSW,8,966,23.0,14-30,Silver
+F,6,Geological Engineer,Manufacturing,Mass Customer,No,18,QLD,6,967,54.0,51-70,Silver
+F,74,Civil Engineer,Manufacturing,High Net Worth,No,14,NSW,12,968,57.0,51-70,Gold
+M,60,Dental Hygienist,Health,High Net Worth,Yes,15,NSW,1,969,31.0,31-50,Silver
+M,3,Electrical Engineer,Manufacturing,High Net Worth,Yes,15,NSW,8,970,66.0,51-70,Gold
+F,30,Nurse,Property,Affluent Customer,Yes,4,NSW,9,971,50.0,31-50,Silver
+F,37,Senior Quality Engineer,Retail,Mass Customer,Yes,13,QLD,5,974,51.0,51-70,Silver
+F,77,Structural Engineer,Financial Services,Affluent Customer,Yes,10,VIC,12,975,16.0,14-30,Silver
+M,15,Environmental Tech,Health,Mass Customer,Yes,5,VIC,9,977,50.0,31-50,Silver
+F,56,Structural Analysis Engineer,IT,Mass Customer,No,9,NSW,10,978,79.0,71-90,Silver
+M,77,Web Designer II,Argiculture,Mass Customer,Yes,13,VIC,5,979,40.0,31-50,Gold
+M,93,Environmental Tech,Argiculture,Mass Customer,Yes,9,NSW,12,980,31.0,31-50,Silver
+F,83,Senior Quality Engineer,Financial Services,Affluent Customer,Yes,22,QLD,1,982,66.0,51-70,Silver
+M,45,Sales Associate,Property,Mass Customer,No,8,NSW,5,983,61.0,51-70,Gold
+F,83,Research Nurse,Health,Mass Customer,No,15,VIC,4,986,30.0,14-30,Gold
+M,41,Web Developer I,IT,Mass Customer,Yes,7,NSW,8,987,58.0,51-70,Gold
+F,44,Geologist I,Health,Mass Customer,No,15,NSW,7,988,20.0,14-30,Gold
+F,64,Quality Control Specialist,Manufacturing,Mass Customer,Yes,11,NSW,7,989,74.0,71-90,Silver
+F,60,Help Desk Operator,Property,Mass Customer,Yes,9,QLD,6,991,63.0,51-70,Gold
+M,59,Automation Specialist I,Manufacturing,Mass Customer,Yes,15,VIC,3,992,43.0,31-50,Gold
+F,32,Assistant Media Planner,Entertainment,Mass Customer,Yes,8,QLD,3,993,44.0,31-50,Gold
+M,38,Compensation Analyst,Financial Services,Mass Customer,Yes,6,NSW,4,994,58.0,51-70,Gold
+F,15,Office Assistant IV,Retail,Mass Customer,No,3,VIC,12,995,27.0,14-30,Gold
+M,60,Paralegal,Financial Services,Affluent Customer,No,9,NSW,7,996,58.0,51-70,Gold
+M,22,Senior Sales Associate,Health,Mass Customer,No,6,NSW,10,997,16.0,14-30,Silver
+F,17,Budget/Accounting Analyst IV,Financial Services,Affluent Customer,Yes,15,QLD,2,998,63.0,51-70,Silver
+M,30,Financial Advisor,Financial Services,Mass Customer,Yes,19,QLD,2,999,65.0,51-70,Silver
+M,56,Staff Accountant IV,Property,Mass Customer,Yes,14,NSW,9,1000,62.0,51-70,Gold
