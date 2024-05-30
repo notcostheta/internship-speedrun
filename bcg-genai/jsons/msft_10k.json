@@ -1,0 +1,133 @@
+{
+  "id": "c5157b39d2e3e4516ceade25a58f1b85",
+  "accessionNo": "0000950170-23-035122",
+  "cik": "789019",
+  "ticker": "MSFT",
+  "companyName": "MICROSOFT CORP",
+  "companyNameLong": "MICROSOFT CORP (Filer)",
+  "formType": "10-K",
+  "description": "Form 10-K - Annual report [Section 13 and 15(d), not S-K Item 405]",
+  "filedAt": "2023-07-27T16:01:56-04:00",
+  "linkToTxt": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/0000950170-23-035122.txt",
+  "linkToHtml": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/0000950170-23-035122-index.htm",
+  "linkToXbrl": "",
+  "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-20230630.htm",
+  "entities": [
+    {
+      "companyName": "MICROSOFT CORP (Filer)",
+      "cik": "789019",
+      "irsNo": "911144442",
+      "stateOfIncorporation": "WA",
+      "fiscalYearEnd": "0630",
+      "type": "10-K",
+      "act": "34",
+      "fileNo": "001-37845",
+      "filmNo": "231118330",
+      "sic": "7372 Services-Prepackaged Software"
+    }
+  ],
+  "documentFormatFiles": [
+    {
+      "sequence": "1",
+      "description": "10-K",
+      "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/789019/000095017023035122/msft-20230630.htm",
+      "type": "10-K",
+      "size": "9963591"
+    },
+    {
+      "sequence": "2",
+      "description": "EX-21",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-ex21.htm",
+      "type": "EX-21",
+      "size": "16796"
+    },
+    {
+      "sequence": "3",
+      "description": "EX-23.1",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-ex23_1.htm",
+      "type": "EX-23.1",
+      "size": "6232"
+    },
+    {
+      "sequence": "4",
+      "description": "EX-31.1",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-ex31_1.htm",
+      "type": "EX-31.1",
+      "size": "13975"
+    },
+    {
+      "sequence": "5",
+      "description": "EX-31.2",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-ex31_2.htm",
+      "type": "EX-31.2",
+      "size": "14481"
+    },
+    {
+      "sequence": "6",
+      "description": "EX-32.1",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-ex32_1.htm",
+      "type": "EX-32.1",
+      "size": "9931"
+    },
+    {
+      "sequence": "7",
+      "description": "EX-32.2",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-ex32_2.htm",
+      "type": "EX-32.2",
+      "size": "9505"
+    },
+    {
+      "sequence": "\u00a0",
+      "description": "Complete submission text file",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/0000950170-23-035122.txt",
+      "type": "\u00a0",
+      "size": "40966463"
+    }
+  ],
+  "dataFiles": [
+    {
+      "sequence": "8",
+      "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-20230630_def.xml",
+      "type": "EX-101.DEF",
+      "size": "389706"
+    },
+    {
+      "sequence": "9",
+      "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-20230630_lab.xml",
+      "type": "EX-101.LAB",
+      "size": "768085"
+    },
+    {
+      "sequence": "10",
+      "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-20230630_pre.xml",
+      "type": "EX-101.PRE",
+      "size": "629593"
+    },
+    {
+      "sequence": "11",
+      "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-20230630_cal.xml",
+      "type": "EX-101.CAL",
+      "size": "123089"
+    },
+    {
+      "sequence": "12",
+      "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-20230630.xsd",
+      "type": "EX-101.SCH",
+      "size": "93177"
+    },
+    {
+      "sequence": "128",
+      "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-20230630_htm.xml",
+      "type": "XML",
+      "size": "13038129"
+    }
+  ],
+  "seriesAndClassesContractsInformation": [],
+  "periodOfReport": "2023-06-30"
+}
